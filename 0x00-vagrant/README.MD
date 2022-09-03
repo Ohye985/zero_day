@@ -1,1 +1,1 @@
-~~What uname in my virtual machine prints~~
+What uname in my virtual machine printsi
